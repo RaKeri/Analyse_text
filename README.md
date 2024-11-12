@@ -69,6 +69,6 @@
 
 Генерация облака слов...
 ```
-![image](https://github.com/user-attachments/assets/8301fed5-78ce-4cd3-9aab-676a9fee819c)
+![image](https://github.com/user-attachments/assets/c28920a7-2932-4168-b496-a540dce92227)
 
 
